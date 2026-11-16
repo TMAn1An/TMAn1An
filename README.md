@@ -1,7 +1,7 @@
 <!-- Replace TMAn1An with your GitHub username if different -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Hi%2C%20I'm%20TMAn1An&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20with%20code%20%26%20music&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7c3aed&height=200&section=header&text=Hi%20I%20am%20TMAn1An&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20with%20code%20and%20music&descAlignY=58&descSize=18" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=520&lines=Flutter+%26+Dart+Developer;Building+Shared+Music+Space;Always+learning+something+new)](https://github.com/TMAn1An)
 
