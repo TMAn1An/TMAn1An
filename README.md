@@ -46,6 +46,7 @@
 ## 🚀 Projects
 
 - **[Shared Music Space](https://github.com/TMAn1An/Shared-Music-Space)**: synchronized video playback, live chat and floating reactions (ASP.NET Core, SignalR, SQL Server, EF Core)
+- **TDA Studbook**: horse registry for an Australian client, covering pedigree-based divisions, membership, registration, ownership transfers and certificate verification
 - **LiveQueue**: multi-tenant queue management backend with notifications and audit records (TypeScript, Express, PostgreSQL, Prisma)
 - **BECITHCON Certificate System**: certificate generation tool for a conference (Python, Flask)
 
@@ -70,18 +71,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMAn1An/TMAn1An/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TMAn1An/TMAn1An/output/github-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/TMAn1An/TMAn1An/output/github-snake.svg" />
-</picture>
-
-</div>
-
-## 🎮 Contribution Breakout
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMAn1An/TMAn1An/github-breakout/images/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TMAn1An/TMAn1An/github-breakout/images/breakout-light.svg" />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/TMAn1An/TMAn1An/github-breakout/images/breakout-light.svg" />
 </picture>
 
 </div>
